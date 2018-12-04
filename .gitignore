@@ -1,0 +1,5 @@
+# jupyter
+.ipynb_*
+
+# data
+input/*.csv
